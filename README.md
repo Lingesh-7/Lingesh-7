@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm LINGESH R</h1>
+<h1 align="center">Hi 👋, I am LINGESH R</h1>
 <h3 align="center">🚀Data Science Enthusiast | Building Scalable AI Solutions <br> Turning data into intelligent solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lingesh-7&label=Profile%20views&color=0e75b6&style=flat" alt="lingesh-7" /> </p>
