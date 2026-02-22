@@ -1,5 +1,10 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Lingesh R</strong>
+</h1>
+
 <h1 align="center">Hi 👋, I am LINGESH R</h1>
 <h3 align="center">🚀Data Science Enthusiast | Building Scalable AI Solutions <br> Turning data into intelligent solutions.</h3>
 
