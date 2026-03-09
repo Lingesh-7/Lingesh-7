@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lingesh-7](https://github.com/Lingesh-7)
 
-- 🌐Website: [https://lingesh-r-portfolio.onrender.com/](https://lingesh-r-portfolio.onrender.com/)
+- 🌐Portfolio: [https://lingesh-r-portfolio-j8sg.onrender.com/](https://lingesh-r-portfolio-j8sg.onrender.com/)
   
 - 📫 How to reach me **lingesh.r.official@gmail.com**
 
