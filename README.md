@@ -1,4 +1,4 @@
-<img align="center" alt="Banner" src="[https://user-images.githubusercontent.com/74038190/212284115-0e8a7b6f-8f6b-4b0b-9b6e-0b8c1e3b3b6b.gif](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)"/>
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/74038190/212284115-0e8a7b6f-8f6b-4b0b-9b6e-0b8c1e3b3b6b.gif](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="center">Hi 👋, I'm LINGESH R</h1>
 
